@@ -1,1 +1,1 @@
-- 👀 I’m interested in web3, rust, grahpics programming
+- 👀 I’m interested in web3, rust, graphics programming
